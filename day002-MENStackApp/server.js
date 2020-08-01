@@ -1,3 +1,6 @@
+// Tutorial taken from here:
+// https://www.freecodecamp.org/news/develop-deploy-first-fullstack-web-app/
+
 // Load Node modules
 var express = require('express');
 // Initialize express
